@@ -1,10 +1,7 @@
 # Vision Camera App
-
-# Author: Danilo Mazzulli
-
-# Date: 2022-02-15
-
-# Description: This script is used to capture images and make videos from a camera and save them in local device.
+Author: Danilo Mazzulli
+Date: 2022-02-15
+Description: This script is used to capture images and make videos from a camera and save them in local device.
 
 ## Links
 
