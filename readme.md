@@ -1,25 +1,38 @@
 # Vision Camera App
+
 Author: Danilo Mazzulli
+
 Date: 2022-02-15
+
 Description: This script is used to capture images and make videos from a camera and save them in local device.
 
 ## Links
 
-https://www.youtube.com/watch?v=xLQnyHhaSgY
-https://react-native-vision-camera.com/docs/guides
-https://www.youtube.com/watch?v=Tgbk3UlFFoc
-https://docs.expo.dev/
+[Rocketseat](https://www.youtube.com/watch?v=xLQnyHhaSgY)
+
+[Vision Camera](https://react-native-vision-camera.com/docs/guides)
+
+[Como criar App com camera, gravar videos com React Native](https://www.youtube.com/watch?v=Tgbk3UlFFoc)
+
+[Expo Docs](https://docs.expo.dev/)
 
 ## Importing Libraries
 
-expo
-expo-image
-expo-media-library
-expo-video
-expo-system-ui
-expo-av
-react-native-vision-camera
-react-native-reanimated
+> expo
+
+> expo-image
+
+> expo-media-library
+
+> expo-video
+
+> expo-system-ui
+
+> expo-av
+
+> react-native-vision-camera
+
+> react-native-reanimated
 
 ## Notes
 
